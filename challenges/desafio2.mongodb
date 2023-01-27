@@ -1,0 +1,4 @@
+use('commerce')
+// db.adminCommand({ listDatabases: 1 })
+
+db.produtos.find();
